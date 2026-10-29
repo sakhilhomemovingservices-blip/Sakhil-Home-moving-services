@@ -1,0 +1,10 @@
+{
+  "name": "Remix MoveConnect Saudi",
+  "description": "Premium Home Shifting, Furniture Moving \u0026 Office Relocation Business Network across Saudi Arabia with verified movers, instant WhatsApp \u0026 Call quotes, and interactive booking.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
